@@ -1,4 +1,4 @@
-# Statistical Learning expriment
+# Statistical Learning experiment
 
 by Benwang chen,2020/10/9
 
